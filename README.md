@@ -38,11 +38,12 @@ Use this guide https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-frit
 
 ## Mounting Switches
 
-![The Switch Layout](/Wiring/Button Box Switch Drawing.png)
+[![The Switch Layout](/assets/img/Button.Box.Switch.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/cc3dd8f295fed3212f57e3ba37aae06ad9c3c905/Wiring/Button%20Box%20Switch%20Drawing.png)
 
 
 ## Wire up the Switches to the Pico
-WIP
+
+[![Wiring Diagram](/assets/img/Button.Box.Wiring.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/c64d351191bc0df918ce5761ca17e5b0fad25a2d/assets/img/Button.Box.Wiring.Drawing.png)
 
 ## Mount the Button Box to the Sim Rig
 WIP
