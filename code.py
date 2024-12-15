@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2021 John Park for Adafruit Industries
 # SPDX-License-Identifier: MIT
 # RaspberryPi Pico RP2040 Mechanical Keyboard
+# Modified 16/12/2024 for application in a button box for ACC on PS5
 
 import time
 import board
