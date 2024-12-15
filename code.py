@@ -63,7 +63,7 @@ keymap = {
     (8): (KEY, (Keycode.CONTROL, Keycode.L)),
     (9): (KEY, (Keycode.SHIFT, Keycode.L)),
     (10): (KEY, (Keycode.ALT, Keycode.R)),
-    (11): (KEY,(Keycode.SHIFT, Keycode.B)),
+    (11): (KEY, (Keycode.SHIFT, Keycode.B)),
     (12): (KEY, (Keycode.SHIFT, Keycode.A)),
     (13): (KEY, (Keycode.SHIFT, Keycode.E)),
     (14): (KEY, (Keycode.SHIFT, Keycode.T)),
