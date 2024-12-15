@@ -88,7 +88,7 @@ for i in range(len(pins)):
 switch_state = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 while True:
-    for button in range(24):
+    for button in range(23):
         if switch_state[button] == 0:
             if not switches[button].value:
                 try:
