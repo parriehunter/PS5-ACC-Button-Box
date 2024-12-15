@@ -60,7 +60,7 @@ keymap = {
     (5): (KEY, [Keycode.F2]),
     (6): (KEY, [Keycode.ONE]),
     (7): (KEY, [Keycode.L]),
-    (8): (KEY, (Keycode.CTRL, Keycode.L)),
+    (8): (KEY, (Keycode.CONTROL, Keycode.L)),
     (9): (KEY, (Keycode.SHIFT, Keycode.L)),
     (10): (KEY, (Keycode.ALT, Keycode.R)),
     (11): (KEY,(Keycode.SHIFT, Keycode.B)),
@@ -68,13 +68,13 @@ keymap = {
     (13): (KEY, (Keycode.SHIFT, Keycode.E)),
     (14): (KEY, (Keycode.SHIFT, Keycode.T)),
     (15): (KEY, (Keycode.SHIFT, Keycode.D)),
-    (16): (KEY, (Keycode.CTRL, Keycode.D)),
+    (16): (KEY, (Keycode.CONTROL, Keycode.D)),
     (17): (KEY, (Keycode.ALT, Keycode.LEFT_ARROW)),
     (18): (KEY, (Keycode.ALT, Keycode.RIGHT_ARROW)),
-    (19): (KEY, (Keycode.CTRL, Keycode.B)),
-    (20): (KEY, (Keycode.CTRL, Keycode.A)),
-    (21): (KEY, (Keycode.CTRL, Keycode.E)),
-    (22): (KEY, (Keycode.CTRL, Keycode.T)),
+    (19): (KEY, (Keycode.CONTROL, Keycode.B)),
+    (20): (KEY, (Keycode.CONTROL, Keycode.A)),
+    (21): (KEY, (Keycode.CONTROL, Keycode.E)),
+    (22): (KEY, (Keycode.CONTROL, Keycode.T)),
 }
 
 switches = []
