@@ -37,7 +37,9 @@ Use this guide https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-frit
 </ol>
 
 ## Mounting Switches
-WIP
+
+![The Switch Layout](/Wiring/Button Box Switch Drawing.png)
+
 
 ## Wire up the Switches to the Pico
 WIP
