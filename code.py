@@ -45,7 +45,6 @@ pins = (
     board.GP21,
     board.GP22,
     board.GP26,
-    board.GP27,
 )
 
 MEDIA = 1
@@ -55,27 +54,26 @@ keymap = {
     (0): (KEY, (Keycode.SHIFT, Keycode.I)),
     (1): (KEY, [Keycode.S]),
     (2): (KEY, (Keycode.ALT, Keycode.L)),
-    (3): (KEY, [Keycode.FOUR]),
-    (4): (KEY, [Keycode.FIVE]),
-    (5): (KEY, [Keycode.SIX]),
-    (6): (KEY, [Keycode.SEVEN]),
-    (7): (KEY, [Keycode.R]),
-    (8): (KEY, [Keycode.G]),
-    (9): (KEY, [Keycode.B]),
-    (10): (KEY, [Keycode.UP_ARROW]),
-    (11): (KEY, [Keycode.X]),  # plus key
-    (12): (KEY, [Keycode.Y]),
-    (13): (KEY, [Keycode.Z]),
-    (14): (KEY, [Keycode.I]),
-    (15): (KEY, [Keycode.O]),
-    (16): (KEY, [Keycode.LEFT_ARROW]),
-    (17): (KEY, [Keycode.DOWN_ARROW]),
-    (18): (KEY, [Keycode.RIGHT_ARROW]),
-    (19): (KEY, [Keycode.ALT]),
-    (20): (KEY, [Keycode.U]),
-    (21): (KEY, [Keycode.LEFT_ARROW]),
-    (22): (KEY, [Keycode.DOWN_ARROW]),
-    (23): (KEY, [Keycode.RIGHT_ARROW]),
+    (3): (KEY, (Keycode.ALT, Keycode.D)),
+    (4): (KEY, [Keycode.THREE]),
+    (5): (KEY, [Keycode.F2]),
+    (6): (KEY, [Keycode.ONE]),
+    (7): (KEY, [Keycode.L]),
+    (8): (KEY, (Keycode.CTRL, Keycode.L)),
+    (9): (KEY, (Keycode.SHIFT, Keycode.L)),
+    (10): (KEY, (Keycode.ALT, Keycode.R)),
+    (11): (KEY,(Keycode.SHIFT, Keycode.B)),
+    (12): (KEY, (Keycode.SHIFT, Keycode.A)),
+    (13): (KEY, (Keycode.SHIFT, Keycode.E)),
+    (14): (KEY, (Keycode.SHIFT, Keycode.T)),
+    (15): (KEY, (Keycode.SHIFT, Keycode.D)),
+    (16): (KEY, (Keycode.CTRL, Keycode.D)),
+    (17): (KEY, (Keycode.ALT, Keycode.LEFT_ARROW)),
+    (18): (KEY, (Keycode.ALT, Keycode.RIGHT_ARROW)),
+    (19): (KEY, (Keycode.CTRL, Keycode.B)),
+    (20): (KEY, (Keycode.CTRL, Keycode.A)),
+    (21): (KEY, (Keycode.CTRL, Keycode.E)),
+    (22): (KEY, (Keycode.CTRL, Keycode.T)),
 }
 
 switches = []
@@ -86,7 +84,7 @@ for i in range(len(pins)):
     switches.append(switch)
 
 
-switch_state = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+switch_state = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 while True:
     for button in range(24):
