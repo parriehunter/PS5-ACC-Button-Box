@@ -22,9 +22,11 @@ Code based on https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritz
   <li>Mounting Bracket - https://vi.aliexpress.com/item/1005007642026372.html</li>
 </ul>
 
-## Running the Code
+## Install the prerequisites and the code
 
-Use this guide https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritzing-circuitpython
+Use this guide https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritzing-circuitpython to be able to load the requirements and the code. 
+
+Quick Guide
 <ol>
   <li>Install CircuitPython onto the Pico</li>
   <li>Install the Adafruit HID Library
@@ -38,11 +40,13 @@ Use this guide https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-frit
 
 ## Mounting Switches
 
+Here is the picture of the button layout.
 [![The Switch Layout](/assets/img/Button.Box.Switch.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/cc3dd8f295fed3212f57e3ba37aae06ad9c3c905/Wiring/Button%20Box%20Switch%20Drawing.png)
 
 
 ## Wire up the Switches to the Pico
 
+How I am planning to wire all the switches to the Pico
 [![Wiring Diagram](/assets/img/Button.Box.Wiring.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/c64d351191bc0df918ce5761ca17e5b0fad25a2d/assets/img/Button.Box.Wiring.Drawing.png)
 
 ## Mount the Button Box to the Sim Rig
