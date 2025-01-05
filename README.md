@@ -46,7 +46,7 @@ Quick Guide
 ## Mounting Switches
 
 Here is the picture of the button layout.
-[![The Switch Layout](/assets/img/Button.Box.Switch.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/cc3dd8f295fed3212f57e3ba37aae06ad9c3c905/Wiring/Button%20Box%20Switch%20Drawing.png)
+[![The Switch Layout](/assets/img/Button.Box.Switch.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/595b8a9aa02864b91d77672111bb2e55841cd3c6/assets/img/Button.Box.Drawing.png)
 
 
 ## Wire up the Switches to the Pico
