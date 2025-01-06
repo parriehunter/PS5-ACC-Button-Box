@@ -45,7 +45,8 @@ Quick Guide
 
 ## Mounting Switches
 
-Here is the picture of the button layout. Note: The layout has slightly changed from what I built. Please confirm layout before using on your box.
+Here is the picture of the button layout. Note that it has slightly changed from what I built. Please confirm the layout before using it on your box.
+
 [![The Switch Layout](assets/img/Button.Box.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/595b8a9aa02864b91d77672111bb2e55841cd3c6/assets/img/Button.Box.Drawing.png)
 
 Firstly print the picture and tape it to the front of the box to get the correct mounting locations. Then using the guidelines drill the pilot holes in all the switch locations.
@@ -57,14 +58,14 @@ Using a step-down drillbit, drill all the holes out to the correct sizes for the
 
 <img src="https://github.com/parriehunter/PS5-ACC-Button-Box/blob/80056785973887c2171809795dea002bc850069e/assets/img/20241220_144354.jpg" alt="All the holes drilled to the correct sizes" width="50%" height="50%">
 
-Next mount all the switches onto the box. Note that the Left Int and Display buttons have been slightly shifted to line up on the box with the other buttons.
+Next, mount all the switches onto the box. Note that the Left Int and Display buttons have been slightly shifted to line up with the other buttons on the box.
 
 <img src="https://github.com/parriehunter/PS5-ACC-Button-Box/blob/80056785973887c2171809795dea002bc850069e/assets/img/20241220_151500.jpg" alt="All the switches mounted" width="50%" height="50%">
 <img src="https://github.com/parriehunter/PS5-ACC-Button-Box/blob/80056785973887c2171809795dea002bc850069e/assets/img/20241220_151510.jpg" alt="The back of the switches showing them ready for wiring" width="50%" height="50%">
 
 ## Wire up the Switches to the Pico
 
-The plan to wire all the switches to the Pico.
+The plan is to wire all the switches to the Pico.
 
 [Wiring Document](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/80056785973887c2171809795dea002bc850069e/assets/doc/ButtonBox.Mappings.pdf)
 
