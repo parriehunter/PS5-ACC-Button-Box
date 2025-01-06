@@ -45,7 +45,7 @@ Quick Guide
 
 ## Mounting Switches
 
-Here is the picture of the button layout.
+Here is the picture of the button layout. Note: The layout has slightly changed from what I built. Please confirm layout before using on your box.
 [![The Switch Layout](assets/img/Button.Box.Drawing.png)](https://github.com/parriehunter/PS5-ACC-Button-Box/blob/595b8a9aa02864b91d77672111bb2e55841cd3c6/assets/img/Button.Box.Drawing.png)
 
 Firstly print the picture and tape it to the front of the box to get the correct mounting locations. Then using the guidelines drill the pilot holes in all the switch locations.
@@ -86,6 +86,6 @@ Here it is beside my T300RS
 <img src="https://github.com/parriehunter/PS5-ACC-Button-Box/blob/80056785973887c2171809795dea002bc850069e/assets/img/20241223_161002.jpg" alt="Mounted to the SIM rig" width="50%" height="50%">
 <img src="https://github.com/parriehunter/PS5-ACC-Button-Box/blob/80056785973887c2171809795dea002bc850069e/assets/img/20241223_161451.jpg" alt="Closeup mounted to the Sim Rig" width="50%" height="50%">
 
-##Thanks
+## Thanks
 
 Thanks for viewing this little project. After a few more hours in ACC it has changed the game for me to be able to change things while in race so much more easily.
